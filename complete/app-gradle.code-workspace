@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "app-gradle",
+			"path": "../test/app-gradle"
+		}
+	],
+	"settings": {}
+}
